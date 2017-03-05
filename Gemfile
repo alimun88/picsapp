@@ -53,3 +53,4 @@ end
   gem 'spring'
 end
 
+ruby '2.3.0'
